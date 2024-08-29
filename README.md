@@ -25,11 +25,9 @@ This Node.js command-line interface (CLI) tool counts the number of words in a s
 ```bash
 node index.mjs /path/to/your/file.txt
 Example:
-
-
 node index.mjs /Users/ALWAZ/file.txt
 
-*Output:
+Output:
 The CLI will output the total number of words in the specified file:
-bash
+
 You have 10 words in this file.
