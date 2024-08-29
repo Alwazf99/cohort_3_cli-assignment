@@ -22,14 +22,14 @@ This Node.js command-line interface (CLI) tool counts the number of words in a s
 ## Usage
 **Run the script:**
 
-bash
+```bash
 node index.mjs /path/to/your/file.txt
 Example:
 
-bash
+```bash
 node index.mjs /Users/kirat/file.txt
 
-Output:
+```Output:
 The CLI will output the total number of words in the specified file:
 bash
 You have 10 words in this file.
